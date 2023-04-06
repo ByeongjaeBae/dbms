@@ -1,7 +1,7 @@
 # Project2
 ## Milestion1
 ### 1. Possible call path of the insert/delete operation
-[https://hconnect.hanyang.ac.kr/2020_ite2038_11800/2020_ite2038_2017029743/-/wikis/Milestone-1.1](url)
+[https://github.com/byeongjae-moloco/dbms/blob/master/project2/Disk-based-b%2B%2Btree.md](url)
 ### 2. Detail flow of the structure modification (split, merge)
 [https://hconnect.hanyang.ac.kr/2020_ite2038_11800/2020_ite2038_2017029743/-/wikis/Milestone-1.2](url)
 ### 3. (Naïve) designs or required changes for building on-disk b+ tree
