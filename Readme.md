@@ -1,10 +1,6 @@
 # Project2
 ## Milestion1
 https://github.com/byeongjae-moloco/dbms/blob/master/project2/Disk-based-b%2B%2Btree.md
-# Project2
-## Milestion2
-### 4. on-disk b+ tree
-[https://hconnect.hanyang.ac.kr/2020_ite2038_11800/2020_ite2038_2017029743/-/wikis/pt-2-Milestone-2](url)
 # Project3
 ### 5. buffer-manager
 [https://hconnect.hanyang.ac.kr/2020_ite2038_11800/2020_ite2038_2017029743/-/wikis/pt3-buffermanager](url)
